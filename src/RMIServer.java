@@ -22,3 +22,4 @@ public class RMIServer {
         }
     }
 }
+// rmiregistry 1099
